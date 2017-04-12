@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="toolbar_screen_one">Pop Movies</string>
+    <string name="popular">Most Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="setting">setting</string>
+    <string name="movie_detail">MovieDetail</string>
+    <string name="ok">ok</string>
+    <string name="dialog_text">Please check your Internet Connection</string>
+    <string name="dialog_title">No Connection!</string>
+</resources>
